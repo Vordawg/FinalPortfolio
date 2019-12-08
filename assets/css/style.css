@@ -1,0 +1,56 @@
+body{
+    padding: 15px;
+}
+
+#iconbuttons
+{
+    padding-right: 0px;
+    padding-bottom: 15px;
+}  
+
+#aboutme
+{
+    padding-left: 0px;
+}
+
+#mylinkedin, #myresume, #mygithub, #myskype{
+    padding-right: 25px;
+}
+
+#emailme{
+    padding-right: 0px;
+}
+
+#myImage{
+    width: 200px;
+    height: 200px;
+}
+
+#iconbuttons{
+    text-align: right;
+}
+
+#firstparagraph{
+    padding-top: 0px;
+}
+
+.card-body{
+    padding:0px
+}
+
+.swiper-container {
+    width:100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 275;
+    height: 275;
+  }
+
+  .swiper-slide{
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
