@@ -34,6 +34,10 @@ body{
     padding-top: 0px;
 }
 
+.card-img-top{
+    height: 217px;
+}
+
 .card-body{
     padding:0px
 }
