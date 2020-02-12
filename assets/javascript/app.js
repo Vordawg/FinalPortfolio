@@ -1,6 +1,6 @@
 function setCoverletter() {
     var paragraph = "";
-    paragraph += "<p>I am a developer, technical leader, and business analyst at The Hartford in Stamford, Connecticut. As ";
+    paragraph += "<p>I am a developer, technical leader, and business analyst. As ";
     paragraph += "a developer my responsibilities included: incorporating agreed changes into requirement ";
     paragraph += "specification and inform the affected team members; manage releases together with the project ";
     paragraph += "manager, ensure that change requests and bug fixes are weighed up against time and budget ";
