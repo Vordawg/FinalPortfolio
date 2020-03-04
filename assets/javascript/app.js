@@ -12,7 +12,7 @@ function setCoverletter() {
     paragraph += "user acceptance test; training new developers; developing and enhancing programming guidelines; ";
     paragraph += "conduct code reviews with all new hires and consultants to ensure version control of source code; ";
     paragraph += "and ensure the quality of deliverables.</p>";
-    paragraph += "<p>I currently have over 20 years experience as an application developer. I have an extensive amount of ";
+    paragraph += "<p>I have an extensive amount of ";
     paragraph += "experience in coding, debugging, creating test plans and assisting with regressing testing and ";
     paragraph += "production support assisting the business users. I am quick to learn and eager to put my knowledge ";
     paragraph += "to work. Some of my business characteristics include commitment to self-improvement in order to ";
